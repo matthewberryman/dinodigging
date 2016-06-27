@@ -1,0 +1,45 @@
+dino digging from process 11 of 16 (processor r175)
+41
+dino digging from process 12 of 16 (processor r175)
+41
+dino digging from process 13 of 16 (processor r175)
+41
+dino digging from process 14 of 16 (processor r175)
+41
+dino digging from process 15 of 16 (processor r175)
+41
+dino digging from process 0 of 16 (processor r175)
+41
+dino digging from process 1 of 16 (processor r175)
+41
+dino digging from process 2 of 16 (processor r175)
+41
+dino digging from process 3 of 16 (processor r175)
+41
+dino digging from process 4 of 16 (processor r175)
+41
+dino digging from process 5 of 16 (processor r175)
+41
+dino digging from process 6 of 16 (processor r175)
+41
+dino digging from process 7 of 16 (processor r175)
+41
+dino digging from process 8 of 16 (processor r175)
+41
+dino digging from process 9 of 16 (processor r175)
+41
+dino digging from process 10 of 16 (processor r175)
+41
+
+======================================================================================
+                  Resource Usage on 2016-06-27 18:45:49:
+   Job Id:             7201273.r-man2
+   Project:            c25
+   Exit Status:        0
+   Service Units:      0.07
+   NCPUs Requested:    16                     NCPUs Used: 16              
+                                           CPU Time Used: 00:00:02                                   
+   Memory Requested:   2.0GB                 Memory Used: 0B              
+   Walltime requested: 00:05:00            Walltime Used: 00:00:05        
+   JobFS requested:    100.0MB                JobFS used: 0B              
+======================================================================================
