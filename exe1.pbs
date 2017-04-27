@@ -1,9 +1,5 @@
-#!/bin/bash
-#PBS -q express
-#PBS -l ncpus=16
-#PBS -l mem=2G
-#PBS -l walltime=00:05:00
-
-module load openmpi/1.10.2
-cd $PBS_O_WORKDIR
-mpirun -np 16 ./dinodigging
+#!/bin/bash -l
+#$ -N dinodigging -wd $HOME/dinodigging -pe mpislots 8 -o $HOME/dinodigging/output.$JOB_NAME.$JOB_ID
+module load mpi/openmpi/1.10.2/gcc-4.8.5
+cd $HOME/dinodigging
+mpirun dinodigging
